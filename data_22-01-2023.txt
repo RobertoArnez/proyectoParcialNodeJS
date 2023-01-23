@@ -1,0 +1,28 @@
+User
+Login
+Password
+firstName
+lastName
+
+
+Product
+Name
+Price
+Inventory
+Unit
+
+ShoppingCart
+invoiceNumber
+Products:[]
+Status pending | paid
+
+mongoDB
+rarnezch@admin
+wPE9WGXvb58tL5N
+
+cadena de conexion
+mongodb+srv://rarnezch:wPE9WGXvb58tL5N@cluster0.fq9y3gu.mongodb.net/?retryWrites=true&w=majority
+
+What's my IP
+177.222.97.92
+Your public IP address
